@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Eduardo Marinho 
 A passionate full stack developer from Portugal
 
-[<img width="135" alt="Portfolio" src="https://github.com/SirZemar/SirZemar/assets/87383586/be06d0c8-e1be-4c72-beb9-0769794b4ef5" target="_blank">](https://eduardomarinho-portfolio.netlify.app/)
+[<img width="135" alt="Portfolio" src="./portfolioBar.png" target="_blank">](https://eduardomarinho-portfolio.netlify.app/)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SirZemar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
