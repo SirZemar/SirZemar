@@ -2,9 +2,7 @@
 A passionate full stack developer from Portugal
 
 [<img width="135" alt="Portfolio" src="./portfolioBar.png" target="_blank">](https://eduardomarinho-portfolio.netlify.app/)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SirZemar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
+
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white")
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
